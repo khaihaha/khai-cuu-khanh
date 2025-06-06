@@ -1,4 +1,3 @@
-# khai-cuu-khanh
 <!DOCTYPE html>
 <html lang="vi">
 <head>
